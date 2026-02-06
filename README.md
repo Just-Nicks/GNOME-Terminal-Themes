@@ -1,6 +1,6 @@
 # GNOME-Terminal-Themes
 Themes for GNOME Terminal
-# Themes
+#🎨 Themes
 - 3024 Night  
 - Arc Dark
 - Ayu Dark
@@ -11,11 +11,11 @@ Themes for GNOME Terminal
 
 ### Themes from **Gogh**
 
-# Files
+#📄 Files
 - GONOME-THEMES.dconf
 - colors.sh
 
-# How to use
+#💻 How to use
 ```bash
 chmox +x colors.sh
 bash colors.sh
@@ -25,7 +25,7 @@ dconf load /org/gnome/terminal/legacy/profiles:/ < gnome-themes.dconf
 gnome-terminal --reset
 ```
 
-## Backup your profiles
+##📁 Backup your profiles
 ```bash
 dconf dump /org/gnome/terminal/legacy/profiles:/ > backup-perfis-gnome-terminal.dconf
 ```
