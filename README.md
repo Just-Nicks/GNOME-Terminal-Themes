@@ -8,6 +8,10 @@ Themes for GNOME Terminal
 - Brogrammer
 - Cobalt 2
 - DarkSide
+- Base2Tone Lavender
+- Base2Tone Space
+- Broadcast
+- Foxnightly
 
 ### Themes from **Gogh**
 
